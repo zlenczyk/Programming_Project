@@ -1,0 +1,16 @@
+Raport I - Omówienie teoretyczne i założenia działania programu
+
+1. Język programowania: C++
+
+2. Wykorzystywane biblioteki:
+a) SFML
+b) pozostałe/alternatywne jeszcze nieznane
+
+2. Koncepcja programu: generator fraktali 2D
+
+3. Założenia:
+a) Program potrafi wygenerować od kilku do kilkunastu fraktali
+b) Użytkownik po włączeniu programu może wybrać z listy interesujący go algorytm/nazwę fraktalu
+c) Użytkownik będzie miał możliwość losowego generowania fraktali
+d) Użytkownik po włączeniu programu może wybrać liczbę iteracji, dla których ma powstać obraz
+e) Użytkownik może wybrać interesujące go warianty kolorów
