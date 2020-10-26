@@ -1,0 +1,26 @@
+Plan Projektu - Omówienie teoretyczne i założenia działania programu
+
+1. Wykorzystany język programowania: C++
+
+2. Wykorzystywane biblioteki:
+a) SFML
+
+2. Koncepcja programu: kreator gifów z ręcznie rysowanych klatek
+
+3. Założenia:
+a) Program daje możliwość tworzenia wielu ręcznie rysowanych prostokątnych klatek, które razem utworzą gif
+b) Narzędziami tworzenia rysunku są: 
+  - pisak tworzący linię ciągłą poprzez kliknięcie, przytrzymanie przycisku oraz ruch myszką
+  - paleta kolorów pisaka
+  - paleta kolorów tła
+  - regulator grubości linii rysowania
+  - "gumka do mazania" działająca na zasadzie pisaka
+c) Każdą klatkę można stworzyć od nowa - z domyślnej klatki albo poprzez utworzenie kopii dowolnej z innych klatek
+d) Każdą klatkę można usunąć (pojedynczo lub grupowo) - w przypadku skasowania wszystkich istniejących klatek, na ekranie pozostaje jedna domyślna klatka
+e) Domyślna klatka, to klatka pusta z białym tłem
+f) Użytkownik w dowolnym momemcie pracy programu może przełącząć się między dowolnymi klatkami
+g) Przy każdej próbie utworzenia gifa tylko z jednej klatki, lub wielu klatek, ale wszystkich domyślnych na ekranie wyświetla się
+komunikat z warunkami utworzenia poprawnego gifa i prośbą o dokonanie zmian
+h) Gif zgodny z zasadami tworzenia powstaje poprzez wyświetlanie kolejno utworzonych klatek co kilkanaście milisekund (konkretna wartość do ustalenia)
+h) Utworzony gif można zapisać do pliku z rozszerzeniem do pliku .gif oraz pobrać
+
