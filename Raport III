@@ -1,0 +1,5 @@
+1. Zmieniłam wygląd aplikacji - po prawej stronie znajduje się 11 kolorów, nad nimi jest wybór pisaka lub wiadra (kolor tła), pod kolorami znajduje się opcja erase.
+2. Jeśli użytkownik wybierze kolor pisaka taki jak kolor tła, to rysunek się nie aktualizuje (jest to zabezpieczenie: jeśli rysujemy tym samym kolorem co kolor tła,
+nie widać co narysowaliśmy, jeśli użytkownik będzie chciał później zmienić kolor tła, to nie zobaczy tego co zrobił, nie będzie musiał tego usuwać)
+3. Po lewej stronie znajduje się opcja wyboru szerokości pisaka.
+4. Użytkownik może rysować tylko w wyznaczonym polu (nie może rysować po paskach opcji)
