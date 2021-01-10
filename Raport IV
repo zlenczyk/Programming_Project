@@ -2,8 +2,8 @@
 2. klasa button obsługuje wszystkie przyciski (dołączą do tego również kolory, erase, bucket oraz brush)
 3. Klasa texbox zostala stworzona w celu obsługi wyboru klatki, do której chcemy sie przenieść(jeszcze nie dodane) lub wyboru klatki, za którą chcemy umieścić nową,
 bądź skopiowaną klatkę (dodane).
-4. Po lewej stronie znajdują 4 grubości wyboru pisaka.
+4. Po lewej stronie znajdują 4 możliwe grubości pisaka.
 5. Pod wyborem grubości mamy możliwość wyboru nowej klatki, lub skopiowanie aktualnej i umieszczenie jej w odpowiednim miejscu.
-6. Dodałam przyciski delete oraz erase.
+6. Dodałam przyciski delete oraz export.
 7. Narazie przyciski po lewej stronie nie są obłsugiwane przez żadne funkcje, ale najeżdżając na dany przycisk, zmienia on swój kolor, oraz zmienia on swój kolor po kliknięciu
 i odkliknięciu.
