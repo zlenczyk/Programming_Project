@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Administrator\source\repos\Animation_gif_maker\Animation_gif_maker\Textbox.h(51,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Administrator\source\repos\Animation_gif_maker\Animation_gif_maker\Textbox.h(74,30): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Administrator\source\repos\Animation_gif_maker\Animation_gif_maker\Textbox.h(77,35): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Administrator\source\repos\Animation_gif_maker\Animation_gif_maker\Textbox.h(125,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Administrator\source\repos\Animation_gif_maker\Animation_gif_maker\Main.cpp(15,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'Magick++.h': No such file or directory
